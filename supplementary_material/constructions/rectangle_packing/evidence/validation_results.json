@@ -1,0 +1,252 @@
+{
+  "results": [
+    {
+      "n": 15,
+      "side": 50,
+      "valid": true,
+      "area_or_volume_lower_bound": 50,
+      "optimal_by_this_bound": true,
+      "path": "constructions/2d/n15_s50_layout.json"
+    },
+    {
+      "n": 18,
+      "side": 66,
+      "valid": true,
+      "area_or_volume_lower_bound": 65,
+      "optimal_by_this_bound": false,
+      "path": "constructions/2d/n18_s66_layout.json"
+    },
+    {
+      "n": 19,
+      "side": 71,
+      "valid": true,
+      "area_or_volume_lower_bound": 71,
+      "optimal_by_this_bound": true,
+      "path": "constructions/2d/n19_s71_layout.json"
+    },
+    {
+      "n": 20,
+      "side": 77,
+      "valid": true,
+      "area_or_volume_lower_bound": 76,
+      "optimal_by_this_bound": false,
+      "path": "constructions/2d/n20_s77_layout.json"
+    },
+    {
+      "n": 21,
+      "side": 82,
+      "valid": true,
+      "area_or_volume_lower_bound": 82,
+      "optimal_by_this_bound": true,
+      "path": "constructions/2d/n21_s82_layout.json"
+    },
+    {
+      "n": 22,
+      "side": 88,
+      "valid": true,
+      "area_or_volume_lower_bound": 88,
+      "optimal_by_this_bound": true,
+      "path": "constructions/2d/n22_s88_layout.json"
+    },
+    {
+      "n": 23,
+      "side": 94,
+      "valid": true,
+      "area_or_volume_lower_bound": 93,
+      "optimal_by_this_bound": false,
+      "path": "constructions/2d/n23_s94_layout.json"
+    },
+    {
+      "n": 24,
+      "side": 100,
+      "valid": true,
+      "area_or_volume_lower_bound": 99,
+      "optimal_by_this_bound": false,
+      "path": "constructions/2d/n24_s100_layout.json"
+    },
+    {
+      "n": 14,
+      "side": 43,
+      "valid": true,
+      "area_or_volume_lower_bound": null,
+      "optimal_by_this_bound": null,
+      "path": "constructions/3d/n14_s43_seed_0001_layout3d.json"
+    },
+    {
+      "n": 15,
+      "side": 46,
+      "valid": true,
+      "area_or_volume_lower_bound": null,
+      "optimal_by_this_bound": null,
+      "path": "constructions/3d/n15_s46_seed_0001_layout3d.json"
+    },
+    {
+      "n": 15,
+      "side": 46,
+      "valid": true,
+      "area_or_volume_lower_bound": null,
+      "optimal_by_this_bound": null,
+      "path": "constructions/3d/n15_s46_seed_0003_layout3d.json"
+    },
+    {
+      "n": 16,
+      "side": 50,
+      "valid": true,
+      "area_or_volume_lower_bound": null,
+      "optimal_by_this_bound": null,
+      "path": "constructions/3d/n16_s50_seed_0025_layout3d.json"
+    },
+    {
+      "n": 16,
+      "side": 51,
+      "valid": true,
+      "area_or_volume_lower_bound": null,
+      "optimal_by_this_bound": null,
+      "path": "constructions/3d/n16_s51_seed_0001_layout3d.json"
+    },
+    {
+      "n": 8,
+      "side": 15,
+      "valid": true,
+      "area_or_volume_lower_bound": 15,
+      "optimal_by_this_bound": true,
+      "path": "constructions/equilateral/n08_s15_layout_equilateral.json"
+    },
+    {
+      "n": 10,
+      "side": 21,
+      "valid": true,
+      "area_or_volume_lower_bound": 20,
+      "optimal_by_this_bound": false,
+      "path": "constructions/equilateral/n10_s21_layout_equilateral.json"
+    },
+    {
+      "n": 12,
+      "side": 27,
+      "valid": true,
+      "area_or_volume_lower_bound": 26,
+      "optimal_by_this_bound": false,
+      "path": "constructions/equilateral/n12_s27_layout_equilateral.json"
+    },
+    {
+      "n": 15,
+      "side": 37,
+      "valid": true,
+      "area_or_volume_lower_bound": 36,
+      "optimal_by_this_bound": false,
+      "path": "constructions/equilateral/n15_s37_layout_equilateral.json"
+    },
+    {
+      "n": 16,
+      "side": 40,
+      "valid": true,
+      "area_or_volume_lower_bound": 39,
+      "optimal_by_this_bound": false,
+      "path": "constructions/equilateral/n16_s40_layout_equilateral.json"
+    },
+    {
+      "n": 17,
+      "side": 43,
+      "valid": true,
+      "area_or_volume_lower_bound": 43,
+      "optimal_by_this_bound": true,
+      "path": "constructions/equilateral/n17_s43_layout_equilateral.json"
+    },
+    {
+      "n": 18,
+      "side": 47,
+      "valid": true,
+      "area_or_volume_lower_bound": 46,
+      "optimal_by_this_bound": false,
+      "path": "constructions/equilateral/n18_s47_layout_equilateral.json"
+    },
+    {
+      "n": 2,
+      "side": 3,
+      "valid": true,
+      "area_or_volume_lower_bound": 3,
+      "optimal_by_this_bound": true,
+      "path": "constructions/tetrahedra/n02_s03_layout_tetrahedra.json"
+    },
+    {
+      "n": 3,
+      "side": 5,
+      "valid": true,
+      "area_or_volume_lower_bound": 4,
+      "optimal_by_this_bound": false,
+      "path": "constructions/tetrahedra/n03_s05_layout_tetrahedra.json"
+    },
+    {
+      "n": 4,
+      "side": 7,
+      "valid": true,
+      "area_or_volume_lower_bound": 5,
+      "optimal_by_this_bound": false,
+      "path": "constructions/tetrahedra/n04_s07_layout_tetrahedra.json"
+    },
+    {
+      "n": 5,
+      "side": 9,
+      "valid": true,
+      "area_or_volume_lower_bound": 7,
+      "optimal_by_this_bound": false,
+      "path": "constructions/tetrahedra/n05_s09_layout_tetrahedra.json"
+    },
+    {
+      "n": 6,
+      "side": 11,
+      "valid": true,
+      "area_or_volume_lower_bound": 8,
+      "optimal_by_this_bound": false,
+      "path": "constructions/tetrahedra/n06_s11_layout_tetrahedra.json"
+    },
+    {
+      "n": 7,
+      "side": 13,
+      "valid": true,
+      "area_or_volume_lower_bound": 10,
+      "optimal_by_this_bound": false,
+      "path": "constructions/tetrahedra/n07_s13_layout_tetrahedra.json"
+    },
+    {
+      "n": 8,
+      "side": 15,
+      "valid": true,
+      "area_or_volume_lower_bound": 11,
+      "optimal_by_this_bound": false,
+      "path": "constructions/tetrahedra/n08_s15_layout_tetrahedra.json"
+    },
+    {
+      "n": 9,
+      "side": 17,
+      "valid": true,
+      "area_or_volume_lower_bound": 13,
+      "optimal_by_this_bound": false,
+      "path": "constructions/tetrahedra/n09_s17_layout_tetrahedra.json"
+    },
+    {
+      "n": 10,
+      "side": 19,
+      "valid": true,
+      "area_or_volume_lower_bound": 15,
+      "optimal_by_this_bound": false,
+      "path": "constructions/tetrahedra/n10_s19_layout_tetrahedra.json"
+    },
+    {
+      "n": 11,
+      "side": 21,
+      "valid": true,
+      "area_or_volume_lower_bound": 17,
+      "optimal_by_this_bound": false,
+      "path": "constructions/tetrahedra/n11_s21_layout_tetrahedra.json"
+    },
+    {
+      "n": 12,
+      "side": 24,
+      "valid": true,
+      "area_or_volume_lower_bound": 19,
+      "optimal_by_this_bound": false,
+      "path": "constructions/tetrahedra/n12_s24_layout_tetrahedra.json"
+    }
+  ]
+}

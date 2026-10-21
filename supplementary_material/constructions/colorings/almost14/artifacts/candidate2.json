@@ -1,0 +1,56 @@
+{
+  "shape": [
+    128,
+    222,
+    222
+  ],
+  "lattice_rows": [
+    [
+      "-1.2643126",
+      "0.17142002",
+      "1.4036446"
+    ],
+    [
+      "-0.07957729",
+      "-1.8897283",
+      "2.710932"
+    ],
+    [
+      "1.6905503",
+      "0.9122134",
+      "2.7019312"
+    ]
+  ],
+  "cell_rows": [
+    [
+      "-6321563/640000000",
+      "8571001/6400000000",
+      "7018223/640000000"
+    ],
+    [
+      "-7957729/22200000000",
+      "-18897283/2220000000",
+      "225911/18500000"
+    ],
+    [
+      "16905503/2220000000",
+      "4561067/1110000000",
+      "1688707/138750000"
+    ]
+  ],
+  "removed_label": 14,
+  "real_colors": 14,
+  "boundary": "half-open logical cells; checker excludes unit distances even between closures",
+  "removed_count": 125228,
+  "total_cells": 6308352,
+  "removed_fraction": "31307/1577088",
+  "removed_percent": 1.9851143373102833,
+  "gain_fine_cells": 93180,
+  "labels_sha256": "fcbacb200245b9b1113cdb59e06d025977ad2b085d25d6249c42f58007ba9103",
+  "adaptive_volume_accounting": {
+    "parent_cell_weight": "1/788544",
+    "child_cell_weight": "1/6308352",
+    "parent_removed_volume": "27301/788544",
+    "retained_volume_gain": "7765/525696"
+  }
+}

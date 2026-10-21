@@ -1,0 +1,420 @@
+{
+  "n": 18,
+  "side": 47,
+  "triangles": [
+    {
+      "side": 1,
+      "orientation": "D",
+      "anchor": [
+        19,
+        26
+      ],
+      "vertices": [
+        [
+          20,
+          26
+        ],
+        [
+          19,
+          27
+        ],
+        [
+          20,
+          27
+        ]
+      ],
+      "placement_index": 1857
+    },
+    {
+      "side": 2,
+      "orientation": "D",
+      "anchor": [
+        21,
+        17
+      ],
+      "vertices": [
+        [
+          23,
+          17
+        ],
+        [
+          21,
+          19
+        ],
+        [
+          23,
+          19
+        ]
+      ],
+      "placement_index": 1812
+    },
+    {
+      "side": 3,
+      "orientation": "U",
+      "anchor": [
+        21,
+        19
+      ],
+      "vertices": [
+        [
+          21,
+          19
+        ],
+        [
+          24,
+          19
+        ],
+        [
+          21,
+          22
+        ]
+      ],
+      "placement_index": 754
+    },
+    {
+      "side": 4,
+      "orientation": "D",
+      "anchor": [
+        20,
+        19
+      ],
+      "vertices": [
+        [
+          24,
+          19
+        ],
+        [
+          20,
+          23
+        ],
+        [
+          24,
+          23
+        ]
+      ],
+      "placement_index": 1619
+    },
+    {
+      "side": 5,
+      "orientation": "D",
+      "anchor": [
+        15,
+        10
+      ],
+      "vertices": [
+        [
+          20,
+          10
+        ],
+        [
+          15,
+          15
+        ],
+        [
+          20,
+          15
+        ]
+      ],
+      "placement_index": 1421
+    },
+    {
+      "side": 6,
+      "orientation": "U",
+      "anchor": [
+        24,
+        17
+      ],
+      "vertices": [
+        [
+          24,
+          17
+        ],
+        [
+          30,
+          17
+        ],
+        [
+          24,
+          23
+        ]
+      ],
+      "placement_index": 749
+    },
+    {
+      "side": 7,
+      "orientation": "D",
+      "anchor": [
+        23,
+        10
+      ],
+      "vertices": [
+        [
+          30,
+          10
+        ],
+        [
+          23,
+          17
+        ],
+        [
+          30,
+          17
+        ]
+      ],
+      "placement_index": 1400
+    },
+    {
+      "side": 8,
+      "orientation": "D",
+      "anchor": [
+        13,
+        14
+      ],
+      "vertices": [
+        [
+          21,
+          14
+        ],
+        [
+          13,
+          22
+        ],
+        [
+          21,
+          22
+        ]
+      ],
+      "placement_index": 1172
+    },
+    {
+      "side": 9,
+      "orientation": "U",
+      "anchor": [
+        21,
+        10
+      ],
+      "vertices": [
+        [
+          21,
+          10
+        ],
+        [
+          30,
+          10
+        ],
+        [
+          21,
+          19
+        ]
+      ],
+      "placement_index": 619
+    },
+    {
+      "side": 10,
+      "orientation": "D",
+      "anchor": [
+        20,
+        0
+      ],
+      "vertices": [
+        [
+          30,
+          0
+        ],
+        [
+          20,
+          10
+        ],
+        [
+          30,
+          10
+        ]
+      ],
+      "placement_index": 1111
+    },
+    {
+      "side": 11,
+      "orientation": "U",
+      "anchor": [
+        12,
+        23
+      ],
+      "vertices": [
+        [
+          12,
+          23
+        ],
+        [
+          23,
+          23
+        ],
+        [
+          12,
+          34
+        ]
+      ],
+      "placement_index": 401
+    },
+    {
+      "side": 12,
+      "orientation": "D",
+      "anchor": [
+        0,
+        22
+      ],
+      "vertices": [
+        [
+          12,
+          22
+        ],
+        [
+          0,
+          34
+        ],
+        [
+          12,
+          34
+        ]
+      ],
+      "placement_index": 688
+    },
+    {
+      "side": 13,
+      "orientation": "U",
+      "anchor": [
+        0,
+        34
+      ],
+      "vertices": [
+        [
+          0,
+          34
+        ],
+        [
+          13,
+          34
+        ],
+        [
+          0,
+          47
+        ]
+      ],
+      "placement_index": 34
+    },
+    {
+      "side": 14,
+      "orientation": "U",
+      "anchor": [
+        15,
+        1
+      ],
+      "vertices": [
+        [
+          15,
+          1
+        ],
+        [
+          29,
+          1
+        ],
+        [
+          15,
+          15
+        ]
+      ],
+      "placement_index": 406
+    },
+    {
+      "side": 15,
+      "orientation": "D",
+      "anchor": [
+        0,
+        1
+      ],
+      "vertices": [
+        [
+          15,
+          1
+        ],
+        [
+          0,
+          16
+        ],
+        [
+          15,
+          16
+        ]
+      ],
+      "placement_index": 562
+    },
+    {
+      "side": 16,
+      "orientation": "U",
+      "anchor": [
+        0,
+        0
+      ],
+      "vertices": [
+        [
+          0,
+          0
+        ],
+        [
+          16,
+          0
+        ],
+        [
+          0,
+          16
+        ]
+      ],
+      "placement_index": 0
+    },
+    {
+      "side": 17,
+      "orientation": "U",
+      "anchor": [
+        30,
+        0
+      ],
+      "vertices": [
+        [
+          30,
+          0
+        ],
+        [
+          47,
+          0
+        ],
+        [
+          30,
+          17
+        ]
+      ],
+      "placement_index": 495
+    },
+    {
+      "side": 18,
+      "orientation": "U",
+      "anchor": [
+        0,
+        16
+      ],
+      "vertices": [
+        [
+          0,
+          16
+        ],
+        [
+          18,
+          16
+        ],
+        [
+          0,
+          34
+        ]
+      ],
+      "placement_index": 16
+    }
+  ]
+}

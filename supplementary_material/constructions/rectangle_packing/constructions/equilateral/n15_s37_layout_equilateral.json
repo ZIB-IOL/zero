@@ -1,0 +1,351 @@
+{
+  "n": 15,
+  "side": 37,
+  "triangles": [
+    {
+      "side": 1,
+      "orientation": "D",
+      "anchor": [
+        11,
+        12
+      ],
+      "vertices": [
+        [
+          12,
+          12
+        ],
+        [
+          11,
+          13
+        ],
+        [
+          12,
+          13
+        ]
+      ],
+      "placement_index": 1056
+    },
+    {
+      "side": 2,
+      "orientation": "U",
+      "anchor": [
+        11,
+        13
+      ],
+      "vertices": [
+        [
+          11,
+          13
+        ],
+        [
+          13,
+          13
+        ],
+        [
+          11,
+          15
+        ]
+      ],
+      "placement_index": 354
+    },
+    {
+      "side": 3,
+      "orientation": "U",
+      "anchor": [
+        18,
+        1
+      ],
+      "vertices": [
+        [
+          18,
+          1
+        ],
+        [
+          21,
+          1
+        ],
+        [
+          18,
+          4
+        ]
+      ],
+      "placement_index": 478
+    },
+    {
+      "side": 4,
+      "orientation": "U",
+      "anchor": [
+        15,
+        0
+      ],
+      "vertices": [
+        [
+          15,
+          0
+        ],
+        [
+          19,
+          0
+        ],
+        [
+          15,
+          4
+        ]
+      ],
+      "placement_index": 405
+    },
+    {
+      "side": 5,
+      "orientation": "D",
+      "anchor": [
+        7,
+        17
+      ],
+      "vertices": [
+        [
+          12,
+          17
+        ],
+        [
+          7,
+          22
+        ],
+        [
+          12,
+          22
+        ]
+      ],
+      "placement_index": 753
+    },
+    {
+      "side": 6,
+      "orientation": "D",
+      "anchor": [
+        0,
+        23
+      ],
+      "vertices": [
+        [
+          6,
+          23
+        ],
+        [
+          0,
+          29
+        ],
+        [
+          6,
+          29
+        ]
+      ],
+      "placement_index": 551
+    },
+    {
+      "side": 7,
+      "orientation": "U",
+      "anchor": [
+        7,
+        22
+      ],
+      "vertices": [
+        [
+          7,
+          22
+        ],
+        [
+          14,
+          22
+        ],
+        [
+          7,
+          29
+        ]
+      ],
+      "placement_index": 218
+    },
+    {
+      "side": 8,
+      "orientation": "U",
+      "anchor": [
+        0,
+        29
+      ],
+      "vertices": [
+        [
+          0,
+          29
+        ],
+        [
+          8,
+          29
+        ],
+        [
+          0,
+          37
+        ]
+      ],
+      "placement_index": 29
+    },
+    {
+      "side": 9,
+      "orientation": "U",
+      "anchor": [
+        11,
+        4
+      ],
+      "vertices": [
+        [
+          11,
+          4
+        ],
+        [
+          20,
+          4
+        ],
+        [
+          11,
+          13
+        ]
+      ],
+      "placement_index": 268
+    },
+    {
+      "side": 10,
+      "orientation": "U",
+      "anchor": [
+        14,
+        12
+      ],
+      "vertices": [
+        [
+          14,
+          12
+        ],
+        [
+          24,
+          12
+        ],
+        [
+          14,
+          22
+        ]
+      ],
+      "placement_index": 313
+    },
+    {
+      "side": 11,
+      "orientation": "D",
+      "anchor": [
+        0,
+        4
+      ],
+      "vertices": [
+        [
+          11,
+          4
+        ],
+        [
+          0,
+          15
+        ],
+        [
+          11,
+          15
+        ]
+      ],
+      "placement_index": 382
+    },
+    {
+      "side": 12,
+      "orientation": "D",
+      "anchor": [
+        12,
+        0
+      ],
+      "vertices": [
+        [
+          24,
+          0
+        ],
+        [
+          12,
+          12
+        ],
+        [
+          24,
+          12
+        ]
+      ],
+      "placement_index": 453
+    },
+    {
+      "side": 13,
+      "orientation": "U",
+      "anchor": [
+        24,
+        0
+      ],
+      "vertices": [
+        [
+          24,
+          0
+        ],
+        [
+          37,
+          0
+        ],
+        [
+          24,
+          13
+        ]
+      ],
+      "placement_index": 324
+    },
+    {
+      "side": 14,
+      "orientation": "U",
+      "anchor": [
+        0,
+        15
+      ],
+      "vertices": [
+        [
+          0,
+          15
+        ],
+        [
+          14,
+          15
+        ],
+        [
+          0,
+          29
+        ]
+      ],
+      "placement_index": 15
+    },
+    {
+      "side": 15,
+      "orientation": "U",
+      "anchor": [
+        0,
+        0
+      ],
+      "vertices": [
+        [
+          0,
+          0
+        ],
+        [
+          15,
+          0
+        ],
+        [
+          0,
+          15
+        ]
+      ],
+      "placement_index": 0
+    }
+  ]
+}

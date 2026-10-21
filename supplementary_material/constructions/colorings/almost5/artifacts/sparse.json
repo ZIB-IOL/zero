@@ -1,0 +1,6 @@
+{
+  "format": "sparse_fill_v1",
+  "parent_chain": "parent_chain.json",
+  "refinement": 64,
+  "paint": "paint.npz"
+}

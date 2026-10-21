@@ -1,0 +1,13 @@
+{
+  "lattice": "lattice_probe1/xstretch_+50/lattice.csv",
+  "steps": [
+    {
+      "grid": "lattice_probe1/xstretch_+50/candidate.npz",
+      "refinement": 1
+    },
+    {
+      "grid": "replicate8_x50_patch256/candidate.npz",
+      "refinement": 8
+    }
+  ]
+}

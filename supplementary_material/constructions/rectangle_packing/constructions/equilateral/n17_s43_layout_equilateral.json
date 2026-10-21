@@ -1,0 +1,397 @@
+{
+  "n": 17,
+  "side": 43,
+  "triangles": [
+    {
+      "side": 1,
+      "orientation": "U",
+      "anchor": [
+        6,
+        15
+      ],
+      "vertices": [
+        [
+          6,
+          15
+        ],
+        [
+          7,
+          15
+        ],
+        [
+          6,
+          16
+        ]
+      ],
+      "placement_index": 258
+    },
+    {
+      "side": 2,
+      "orientation": "D",
+      "anchor": [
+        11,
+        21
+      ],
+      "vertices": [
+        [
+          13,
+          21
+        ],
+        [
+          11,
+          23
+        ],
+        [
+          13,
+          23
+        ]
+      ],
+      "placement_index": 1309
+    },
+    {
+      "side": 3,
+      "orientation": "U",
+      "anchor": [
+        18,
+        12
+      ],
+      "vertices": [
+        [
+          18,
+          12
+        ],
+        [
+          21,
+          12
+        ],
+        [
+          18,
+          15
+        ]
+      ],
+      "placement_index": 597
+    },
+    {
+      "side": 4,
+      "orientation": "U",
+      "anchor": [
+        13,
+        20
+      ],
+      "vertices": [
+        [
+          13,
+          20
+        ],
+        [
+          17,
+          20
+        ],
+        [
+          13,
+          24
+        ]
+      ],
+      "placement_index": 462
+    },
+    {
+      "side": 5,
+      "orientation": "U",
+      "anchor": [
+        17,
+        21
+      ],
+      "vertices": [
+        [
+          17,
+          21
+        ],
+        [
+          22,
+          21
+        ],
+        [
+          17,
+          26
+        ]
+      ],
+      "placement_index": 548
+    },
+    {
+      "side": 6,
+      "orientation": "D",
+      "anchor": [
+        11,
+        20
+      ],
+      "vertices": [
+        [
+          17,
+          20
+        ],
+        [
+          11,
+          26
+        ],
+        [
+          17,
+          26
+        ]
+      ],
+      "placement_index": 1058
+    },
+    {
+      "side": 7,
+      "orientation": "U",
+      "anchor": [
+        11,
+        15
+      ],
+      "vertices": [
+        [
+          11,
+          15
+        ],
+        [
+          18,
+          15
+        ],
+        [
+          11,
+          22
+        ]
+      ],
+      "placement_index": 367
+    },
+    {
+      "side": 8,
+      "orientation": "D",
+      "anchor": [
+        13,
+        12
+      ],
+      "vertices": [
+        [
+          21,
+          12
+        ],
+        [
+          13,
+          20
+        ],
+        [
+          21,
+          20
+        ]
+      ],
+      "placement_index": 964
+    },
+    {
+      "side": 9,
+      "orientation": "U",
+      "anchor": [
+        21,
+        12
+      ],
+      "vertices": [
+        [
+          21,
+          12
+        ],
+        [
+          30,
+          12
+        ],
+        [
+          21,
+          21
+        ]
+      ],
+      "placement_index": 537
+    },
+    {
+      "side": 10,
+      "orientation": "U",
+      "anchor": [
+        0,
+        16
+      ],
+      "vertices": [
+        [
+          0,
+          16
+        ],
+        [
+          10,
+          16
+        ],
+        [
+          0,
+          26
+        ]
+      ],
+      "placement_index": 16
+    },
+    {
+      "side": 11,
+      "orientation": "D",
+      "anchor": [
+        0,
+        15
+      ],
+      "vertices": [
+        [
+          11,
+          15
+        ],
+        [
+          0,
+          26
+        ],
+        [
+          11,
+          26
+        ]
+      ],
+      "placement_index": 576
+    },
+    {
+      "side": 12,
+      "orientation": "D",
+      "anchor": [
+        18,
+        0
+      ],
+      "vertices": [
+        [
+          30,
+          0
+        ],
+        [
+          18,
+          12
+        ],
+        [
+          30,
+          12
+        ]
+      ],
+      "placement_index": 735
+    },
+    {
+      "side": 13,
+      "orientation": "U",
+      "anchor": [
+        30,
+        0
+      ],
+      "vertices": [
+        [
+          30,
+          0
+        ],
+        [
+          43,
+          0
+        ],
+        [
+          30,
+          13
+        ]
+      ],
+      "placement_index": 495
+    },
+    {
+      "side": 14,
+      "orientation": "U",
+      "anchor": [
+        16,
+        0
+      ],
+      "vertices": [
+        [
+          16,
+          0
+        ],
+        [
+          30,
+          0
+        ],
+        [
+          16,
+          14
+        ]
+      ],
+      "placement_index": 360
+    },
+    {
+      "side": 15,
+      "orientation": "D",
+      "anchor": [
+        1,
+        0
+      ],
+      "vertices": [
+        [
+          16,
+          0
+        ],
+        [
+          1,
+          15
+        ],
+        [
+          16,
+          15
+        ]
+      ],
+      "placement_index": 449
+    },
+    {
+      "side": 16,
+      "orientation": "U",
+      "anchor": [
+        0,
+        0
+      ],
+      "vertices": [
+        [
+          0,
+          0
+        ],
+        [
+          16,
+          0
+        ],
+        [
+          0,
+          16
+        ]
+      ],
+      "placement_index": 0
+    },
+    {
+      "side": 17,
+      "orientation": "U",
+      "anchor": [
+        0,
+        26
+      ],
+      "vertices": [
+        [
+          0,
+          26
+        ],
+        [
+          17,
+          26
+        ],
+        [
+          0,
+          43
+        ]
+      ],
+      "placement_index": 26
+    }
+  ]
+}

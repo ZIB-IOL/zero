@@ -1,0 +1,282 @@
+{
+  "n": 12,
+  "side": 27,
+  "triangles": [
+    {
+      "side": 1,
+      "orientation": "U",
+      "anchor": [
+        0,
+        12
+      ],
+      "vertices": [
+        [
+          0,
+          12
+        ],
+        [
+          1,
+          12
+        ],
+        [
+          0,
+          13
+        ]
+      ],
+      "placement_index": 12
+    },
+    {
+      "side": 2,
+      "orientation": "U",
+      "anchor": [
+        4,
+        8
+      ],
+      "vertices": [
+        [
+          4,
+          8
+        ],
+        [
+          6,
+          8
+        ],
+        [
+          4,
+          10
+        ]
+      ],
+      "placement_index": 106
+    },
+    {
+      "side": 3,
+      "orientation": "U",
+      "anchor": [
+        1,
+        12
+      ],
+      "vertices": [
+        [
+          1,
+          12
+        ],
+        [
+          4,
+          12
+        ],
+        [
+          1,
+          15
+        ]
+      ],
+      "placement_index": 37
+    },
+    {
+      "side": 4,
+      "orientation": "D",
+      "anchor": [
+        0,
+        8
+      ],
+      "vertices": [
+        [
+          4,
+          8
+        ],
+        [
+          0,
+          12
+        ],
+        [
+          4,
+          12
+        ]
+      ],
+      "placement_index": 308
+    },
+    {
+      "side": 5,
+      "orientation": "U",
+      "anchor": [
+        13,
+        0
+      ],
+      "vertices": [
+        [
+          13,
+          0
+        ],
+        [
+          18,
+          0
+        ],
+        [
+          13,
+          5
+        ]
+      ],
+      "placement_index": 221
+    },
+    {
+      "side": 6,
+      "orientation": "D",
+      "anchor": [
+        6,
+        0
+      ],
+      "vertices": [
+        [
+          12,
+          0
+        ],
+        [
+          6,
+          6
+        ],
+        [
+          12,
+          6
+        ]
+      ],
+      "placement_index": 334
+    },
+    {
+      "side": 7,
+      "orientation": "D",
+      "anchor": [
+        11,
+        0
+      ],
+      "vertices": [
+        [
+          18,
+          0
+        ],
+        [
+          11,
+          7
+        ],
+        [
+          18,
+          7
+        ]
+      ],
+      "placement_index": 330
+    },
+    {
+      "side": 8,
+      "orientation": "U",
+      "anchor": [
+        10,
+        8
+      ],
+      "vertices": [
+        [
+          10,
+          8
+        ],
+        [
+          18,
+          8
+        ],
+        [
+          10,
+          16
+        ]
+      ],
+      "placement_index": 163
+    },
+    {
+      "side": 9,
+      "orientation": "U",
+      "anchor": [
+        18,
+        0
+      ],
+      "vertices": [
+        [
+          18,
+          0
+        ],
+        [
+          27,
+          0
+        ],
+        [
+          18,
+          9
+        ]
+      ],
+      "placement_index": 189
+    },
+    {
+      "side": 10,
+      "orientation": "D",
+      "anchor": [
+        0,
+        6
+      ],
+      "vertices": [
+        [
+          10,
+          6
+        ],
+        [
+          0,
+          16
+        ],
+        [
+          10,
+          16
+        ]
+      ],
+      "placement_index": 177
+    },
+    {
+      "side": 11,
+      "orientation": "U",
+      "anchor": [
+        0,
+        16
+      ],
+      "vertices": [
+        [
+          0,
+          16
+        ],
+        [
+          11,
+          16
+        ],
+        [
+          0,
+          27
+        ]
+      ],
+      "placement_index": 16
+    },
+    {
+      "side": 12,
+      "orientation": "U",
+      "anchor": [
+        0,
+        0
+      ],
+      "vertices": [
+        [
+          0,
+          0
+        ],
+        [
+          12,
+          0
+        ],
+        [
+          0,
+          12
+        ]
+      ],
+      "placement_index": 0
+    }
+  ]
+}
